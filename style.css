@@ -1,0 +1,34 @@
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #0f1c2e, #000);
+  color: #f0f0f0;
+}
+header {
+  padding: 1em;
+  text-align: center;
+}
+.subtitle {
+  font-size: 1em;
+  color: #888;
+}
+main {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.link {
+  color: #0ff;
+  text-decoration: none;
+  font-size: 1.2em;
+  display: flex;
+  align-items: center;
+}
+.icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  filter: invert(1);
+}

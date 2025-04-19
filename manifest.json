@@ -1,0 +1,14 @@
+
+{
+  "name": "Digital Maxx Core",
+  "short_name": "Maxx Core",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#0f1c2e",
+  "icons": [{
+    "src": "assets/icons/lowtech.svg",
+    "sizes": "192x192",
+    "type": "image/svg+xml"
+  }]
+}
